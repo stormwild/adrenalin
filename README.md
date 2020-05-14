@@ -10,6 +10,16 @@ yarn
 yarn start:all
 ```
 
+## Demo Screenshots
+
+Posts
+
+![](docs/adrenalin_screenshot.png)
+
+Post Detail
+
+![](docs/adrenalin_detail_screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
