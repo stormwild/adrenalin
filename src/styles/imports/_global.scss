@@ -1,0 +1,21 @@
+body {
+  background-color: $bodyBackround;
+  // color: #222;
+}
+
+.header {
+  .navbar-brand {
+    font-weight: 700;
+  }
+}
+
+.footer {
+  .navbar-brand {
+    font-weight: 700;
+    font-size: 100%;
+  }
+
+  hr {
+    border-top: 2px solid rgba(0, 0, 0, 1);
+  }
+}
